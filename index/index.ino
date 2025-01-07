@@ -7,8 +7,8 @@
 #include <ESP8266WebServer.h>
 #include <sunset.h>
 
-const char* ssid = "OverF_2.4GHz";  // Wi-Fi ağ adı
-const char* password = "2artI2e$ittir5";  // Wi-Fi şifresi
+const char* ssid = "Fiber_2.4GHz";  // Wi-Fi ağ adı
+const char* password = "******";  // Wi-Fi şifresi
 const int relayPin = D6;  // Rölenin bağlı olduğu pin d6 (GPI12)
 
 const float latitude = 38.479659;   // Enlem (İstanbul)
